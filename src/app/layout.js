@@ -15,3 +15,6 @@ export default function RootLayout({ children }) {
     </html>
   )
 }
+// This component serves as the layout template for the application.
+// It includes the header, navbar, and search components
+// is consistent across all pages.
