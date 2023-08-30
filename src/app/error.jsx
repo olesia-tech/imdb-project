@@ -1,4 +1,5 @@
     'use client'
+    //client side because of useEffect and onClick usage 
     import React from 'react'
     import { useEffect } from 'react'
 
